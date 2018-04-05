@@ -5,7 +5,7 @@ from io import StringIO
 #Common Problems Error messages and meanings
 
 
-# The enter under "Start" will create the following error: 
+# The newline under "Start" will create the following error: 
 # textfsm.TextFSMTemplateError: Invalid state name: '  ^${Firstname}.${Lastname} -> Record'. Line: 6
 template = """
 Value Firstname ([\w]+)
