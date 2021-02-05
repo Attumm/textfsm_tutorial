@@ -19,6 +19,6 @@ source venv/bin/activate
 To run the tutorial go over each file one by one.
 First read the code, and the templates, and go from there.
 ```sh
-venv$ python step_1.py
+(venv)$ python step_1.py
 ```
 
