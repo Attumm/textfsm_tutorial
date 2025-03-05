@@ -39,7 +39,7 @@ Below is a brief overview of the files and folders in the `basics/` directory:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/textfsm_tutorial.git
+   git clone https://github.com/Attumm/textfsm_tutorial
    cd textfsm_tutorial
    ```
 
@@ -49,6 +49,8 @@ Below is a brief overview of the files and folders in the `basics/` directory:
    source .venv/bin/activate    # Linux/Mac
    # or
    .venv\Scripts\activate       # Windows
+   
+   pip install -r requirements.txt
    ```
 
 3. **Install Dependencies**  
